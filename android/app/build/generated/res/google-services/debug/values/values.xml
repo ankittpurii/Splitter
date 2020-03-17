@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">638312807146-9n4egm01986ms334jmfjjcqn95e5duc3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://splitter-ffe14.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">638312807146</string>
+    <string name="google_api_key" translatable="false">AIzaSyAXm10fZ_ZYr-E7QjZ3RSjUR_TROorjygM</string>
+    <string name="google_app_id" translatable="false">1:638312807146:android:0ba213e2eea1a0e5eef593</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAXm10fZ_ZYr-E7QjZ3RSjUR_TROorjygM</string>
+    <string name="google_storage_bucket" translatable="false">splitter-ffe14.appspot.com</string>
+    <string name="project_id" translatable="false">splitter-ffe14</string>
+</resources>
