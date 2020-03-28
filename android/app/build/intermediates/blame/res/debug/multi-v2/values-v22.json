@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zapbuild/Documents/ReactNativeprojects/Splitter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "/home/ankit/Documents/ReactNativeProjects/Splitter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/zapbuild/.gradle/caches/transforms-2/files-2.1/bdbfc8e8e756082a5d517c680e196701/res/values-v22/values-v22.xml",
+                    "source": "/home/ankit/.gradle/caches/transforms-2/files-2.1/1054dd3bdccd6157885334cf980aad5b/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

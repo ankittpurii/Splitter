@@ -1,4 +1,4 @@
-#Tue Mar 17 17:41:59 IST 2020
-base.0=/Users/zapbuild/Documents/ReactNativeprojects/Splitter/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
+#Sat Mar 28 22:44:23 IST 2020
+base.0=/home/ankit/Documents/ReactNativeProjects/Splitter/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
+renamed.0=classes.dex

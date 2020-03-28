@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zapbuild/Documents/ReactNativeprojects/Splitter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/home/ankit/Documents/ReactNativeProjects/Splitter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/zapbuild/.gradle/caches/transforms-2/files-2.1/bdbfc8e8e756082a5d517c680e196701/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/ankit/.gradle/caches/transforms-2/files-2.1/ec8510dcf56b891ed05eceac711d2cb9/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "752,874",
+                        "endColumns": "121,133",
+                        "endOffsets": "869,1003"
+                    }
+                },
+                {
+                    "source": "/home/ankit/.gradle/caches/transforms-2/files-2.1/1054dd3bdccd6157885334cf980aad5b/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

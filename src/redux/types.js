@@ -1,0 +1,4 @@
+export const USER_DETAILS = "USER_DETAILS"
+export const CLEAR_ALL = "CLEAR_ALL"
+export const LOADING_STATUS = "LOADING_STATUS"
+export const SET_USER_DETAILS = "SET_USER_DETAILS"
