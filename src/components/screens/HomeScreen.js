@@ -1,22 +1,26 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import {
     View,
     Text,
-    TouchableOpacity
 } from 'react-native';
 import { connect } from 'react-redux'
-import { logout } from '../../redux/actions';
 
-navigationOptions = ({ navigation }) => {
-    return {
-        header: () => null
-    }
-}
+import { CustomButton } from '../reusableComp';
+import { useLoading } from '../../Hooks/useLoading';
+
+import { logout, getUsersList } from '../../redux/actions';
+
 const HomeScreen = (props) => {
 
     props.navigation.setOptions({
         headerShown: false
     });
+
+    useEffect(() => {
+        props.getUsersList()
+    }, []);
+
+    const [loader] = useLoading()
 
     return (
         <View
@@ -28,22 +32,15 @@ const HomeScreen = (props) => {
             <Text style={{
                 padding: 10
             }}>Hello {props.userDetails.email} !</Text>
-            <TouchableOpacity
-                style={{
-                    height: 50,
-                    width: 180,
-                    borderRadius: 10,
-                    backgroundColor: 'red',
-                    justifyContent: 'center',
-                    alignItems: 'center'
-                }}
+            <CustomButton
+                title="Logout"
                 onPress={() => {
                     onLogoutClick(props)
-                }}>
-                <Text style={{
-                    color: 'white'
-                }}>Logout</Text>
-            </TouchableOpacity>
+                }}
+            />
+            {
+                loader
+            }
         </View>
     );
 };
@@ -57,9 +54,9 @@ const onLogoutClick = async (props) => {
 
 const mapStateToProps = (state) => {
     return {
-        userDetails: state.persistedReducer.userDetails
+        userDetails: state.persistedReducer.userDetails,
+        usersList: state.UsersReducer.usersList
     }
 }
 
-
-export default connect(mapStateToProps, { logout })(HomeScreen);
+export default connect(mapStateToProps, { logout, getUsersList })(HomeScreen);

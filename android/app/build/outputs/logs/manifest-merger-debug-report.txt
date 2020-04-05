@@ -5,11 +5,13 @@ INJECTED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src
 INJECTED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/9079e13d1ba61e2925e2458b58176f5a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/05f3f863c810d4c7595f0659132f7d99/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-community_async-storage] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_masked-view] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-gesture-handler] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-google-signin] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -37,6 +39,9 @@ MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/ankit/.gra
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/6e64808d2d667af04ca7036bf263062e/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/2a4480805adcb6cd2009b6bdad9ed308/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/271cb9ea963d80528eff52c4240b4a03/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/e76e151323c0d05bfb189e6d68dc378d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2d306fa8a57201e4d741ca686d07b409/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.16.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2537a22d800c84f4711fb98f21e96e98/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.1.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ec8510dcf56b891ed05eceac711d2cb9/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1054dd3bdccd6157885334cf980aad5b/AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/c8667de0cf10c67c42f0a995cfd2b367/AndroidManifest.xml:2:1-9:12
@@ -48,7 +53,6 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ankit/.gradl
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/609c128dfcd079d0a5ba01a55cb889b0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/a7f30bf74ac65e9e9ad804a6b3244020/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/a37d001c9357ca2a9fb55f012cedad2e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.multidex:multidex:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/9079e13d1ba61e2925e2458b58176f5a/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.2.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/c2aacc2a3971301b7ef11af208a8d928/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/bb487b72ee04cb0692caee8da134b271/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.2.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/1f67820836a0ab6e7415ba831e7e471a/AndroidManifest.xml:17:1-24:12
@@ -109,6 +113,8 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:10:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:22:5-67
@@ -125,12 +131,14 @@ application
 ADDED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/05f3f863c810d4c7595f0659132f7d99/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/05f3f863c810d4c7595f0659132f7d99/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:23:5-40:19
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:12:5-18:19
 MERGED from [com.facebook.react:react-native:0.61.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/80e4e7d3988f7788b39b474f79999621/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/80e4e7d3988f7788b39b474f79999621/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:28:5-53:19
@@ -227,16 +235,20 @@ uses-sdk
 INJECTED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/9079e13d1ba61e2925e2458b58176f5a/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/9079e13d1ba61e2925e2458b58176f5a/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/05f3f863c810d4c7595f0659132f7d99/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/05f3f863c810d4c7595f0659132f7d99/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_async-storage] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_async-storage] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-google-signin] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -291,6 +303,12 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/a
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/2a4480805adcb6cd2009b6bdad9ed308/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/271cb9ea963d80528eff52c4240b4a03/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/271cb9ea963d80528eff52c4240b4a03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/e76e151323c0d05bfb189e6d68dc378d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/e76e151323c0d05bfb189e6d68dc378d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2d306fa8a57201e4d741ca686d07b409/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2d306fa8a57201e4d741ca686d07b409/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2537a22d800c84f4711fb98f21e96e98/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2537a22d800c84f4711fb98f21e96e98/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.1.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ec8510dcf56b891ed05eceac711d2cb9/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ec8510dcf56b891ed05eceac711d2cb9/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1054dd3bdccd6157885334cf980aad5b/AndroidManifest.xml:20:5-22:41
@@ -313,8 +331,6 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ankit/.gradle/caches/tr
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/a7f30bf74ac65e9e9ad804a6b3244020/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/a37d001c9357ca2a9fb55f012cedad2e/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/a37d001c9357ca2a9fb55f012cedad2e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.multidex:multidex:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/9079e13d1ba61e2925e2458b58176f5a/AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/9079e13d1ba61e2925e2458b58176f5a/AndroidManifest.xml:20:5-43
 MERGED from [androidx.transition:transition:1.2.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/c2aacc2a3971301b7ef11af208a8d928/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.2.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/c2aacc2a3971301b7ef11af208a8d928/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/bb487b72ee04cb0692caee8da134b271/AndroidManifest.xml:20:5-22:41
@@ -399,46 +415,6 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /home/ankit/Documents/ReactNativeProjects/Splitter/android/app/src/debug/AndroidManifest.xml:5:22-75
-activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:24:9-31:50
-	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:26:13-46
-	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:28:13-44
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:27:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:29:13-102
-	android:theme
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:30:13-72
-	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:31:13-47
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:25:13-85
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:33:9-39:19
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
-MERGED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/9314041325c724ea610a7041eba39718/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/9314041325c724ea610a7041eba39718/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:35:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:34:13-84
-meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:36:13-38:85
-	android:value
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:38:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:37:17-109
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:25:5-68
@@ -455,6 +431,8 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /h
 		ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:9:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:23:5-79
@@ -465,14 +443,64 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/1498c56441821f75305a9e8199c1fbf5/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/3bf501df1d90cfb7f0cc48e036b64c55/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/3bf501df1d90cfb7f0cc48e036b64c55/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2537a22d800c84f4711fb98f21e96e98/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/ankit/.gradle/caches/transforms-2/files-2.1/2537a22d800c84f4711fb98f21e96e98/AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/9314041325c724ea610a7041eba39718/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/9314041325c724ea610a7041eba39718/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/1d1bad61c97c0096b9a87a08cd5a46b6/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
 ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
 	android:value
 		ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
 	android:name
 		ADDED from [:react-native-firebase] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/ankit/.gradle/caches/transforms-2/files-2.1/ffdd60a52eb8074108cbe279c45f8b39/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/173173d82e461f50451a0d4c50fb1110/AndroidManifest.xml:15:17-111
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/1498c56441821f75305a9e8199c1fbf5/AndroidManifest.xml:26:5-110
