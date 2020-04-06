@@ -17,8 +17,10 @@ MERGED from [:react-native-google-signin] /home/ankit/Documents/ReactNativeProje
 MERGED from [:react-native-reanimated] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/80e4e7d3988f7788b39b474f79999621/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/ankit/.gradle/caches/transforms-2/files-2.1/624d47e525b3ae0d05481481fcb38861/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/5ac57192fa9db00a49c994f75efd7481/AndroidManifest.xml:17:1-25:12
@@ -259,10 +261,14 @@ MERGED from [:react-native-safe-area-context] /home/ankit/Documents/ReactNativeP
 MERGED from [:react-native-safe-area-context] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/80e4e7d3988f7788b39b474f79999621/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/ankit/.gradle/caches/transforms-2/files-2.1/80e4e7d3988f7788b39b474f79999621/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/ankit/.gradle/caches/transforms-2/files-2.1/624d47e525b3ae0d05481481fcb38861/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/ankit/.gradle/caches/transforms-2/files-2.1/624d47e525b3ae0d05481481fcb38861/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/ankit/Documents/ReactNativeProjects/Splitter/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/338317436dcb1344919016bc73b00058/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/ankit/.gradle/caches/transforms-2/files-2.1/93da9985afbae705c02695fff276712b/AndroidManifest.xml:20:5-44

@@ -1,11 +1,11 @@
 import React from 'react'
-import { View, Text, ActivityIndicator } from 'react-native'
+import { View, ActivityIndicator } from 'react-native'
 import { useSelector } from 'react-redux'
 
 export const useLoading = () => {
- 
+
     const loadingStatus = useSelector((state) => state.LoadingReducer.loadingStatus)
- 
+
     if (loadingStatus)
         return [
             <View style={{

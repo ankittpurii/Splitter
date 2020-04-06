@@ -12,11 +12,12 @@ import { logout, getUsersList } from '../../redux/actions';
 
 const HomeScreen = (props) => {
 
-    props.navigation.setOptions({
-        headerShown: false
-    });
+    // props.navigation.setOptions({
+    //     headerTitleAlign: 'center'
+    // });
 
     useEffect(() => {
+       
         props.getUsersList()
     }, []);
 
@@ -27,7 +28,8 @@ const HomeScreen = (props) => {
             style={{
                 flex: 1,
                 justifyContent: 'center',
-                alignItems: 'center'
+                alignItems: 'center',
+                backgroundColor: "#88B04B",
             }}>
             <Text style={{
                 padding: 10

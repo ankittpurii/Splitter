@@ -9,13 +9,12 @@ export const CustomButton = (props) => {
                 height: 50,
                 width: 180,
                 borderRadius: 10,
-                backgroundColor: 'red',
+                backgroundColor: 'white',
                 justifyContent: 'center',
                 alignItems: 'center'
             }}
             onPress={props.onPress}>
             <Text style={{
-                color: 'white'
             }}>{props.title}</Text>
         </TouchableOpacity>
     )
