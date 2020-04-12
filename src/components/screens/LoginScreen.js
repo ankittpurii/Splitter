@@ -2,20 +2,30 @@ import React from 'react';
 import {
     View
 } from 'react-native';
-import { connect } from 'react-redux'
+import { useDispatch } from 'react-redux'
+import { useNavigation } from '@react-navigation/native';
+
 
 import { onGoogleSignIn } from '../../redux/actions'
 
-import { useLoading } from '../../Hooks/useLoading';
 import { CustomButton } from '../reusableComp';
+import HOC from '../HOC';
 
 const LoginScreen = props => {
 
-    props.navigation.setOptions({
+    const navigation = useNavigation()
+    const dispatch = useDispatch()
+
+    navigation.setOptions({
         headerShown: false
     });
 
-    const [loader] = useLoading()
+    const googleSignin = async () => {
+        const res = await dispatch(onGoogleSignIn())
+        if (res.success) {
+            navigation.reset({ index: 0, routes: [{ name: "HomeScreen" }] })
+        }
+    };
 
     return (
         <View
@@ -27,23 +37,13 @@ const LoginScreen = props => {
             <CustomButton
                 title="Login"
                 onPress={() => {
-                    googleSignin(props)
+                    googleSignin()
                 }}
             />
-            {
-                loader
-            }
         </View>
     );
 };
 
-const googleSignin = async (props) => {
-    const res = await props.onGoogleSignIn()
-    if (res.success) {
-        props.navigation.reset({ index: 0, routes: [{ name: "HomeScreen" }] })
-    }
-};
 
-export default connect(null, {
-    onGoogleSignIn
-})(LoginScreen);
+
+export default HOC(LoginScreen);

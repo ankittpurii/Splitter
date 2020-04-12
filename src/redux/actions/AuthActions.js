@@ -26,7 +26,7 @@ export const onGoogleSignIn = () => {
                 image: user.photoURL
             })
             dispatch({ type: LOADING_STATUS, payload: false })
-            dispatchUserDetails(dispatch, firebaseUserCredential.user._user)
+            // dispatchUserDex`tails(dispatch, firebaseUserCredential.user._user)
             return {
                 success: SUCCESS
             }

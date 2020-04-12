@@ -3,25 +3,29 @@ import {
     View,
     Text,
 } from 'react-native';
-import { connect } from 'react-redux'
+import { useDispatch } from 'react-redux'
+import { useNavigation } from '@react-navigation/native';
 
 import { CustomButton } from '../reusableComp';
-import { useLoading } from '../../Hooks/useLoading';
 
 import { logout, getUsersList } from '../../redux/actions';
+import HOC from '../HOC';
 
 const HomeScreen = (props) => {
 
-    // props.navigation.setOptions({
-    //     headerTitleAlign: 'center'
-    // });
+    const dispatch = useDispatch()
+    const navigation = useNavigation()
 
     useEffect(() => {
-       
-        props.getUsersList()
+        dispatch(getUsersList())
     }, []);
 
-    const [loader] = useLoading()
+    const onLogoutClick = async () => {
+        const res = await dispatch(logout())
+        if (res.success) {
+            navigation.reset({ index: 0, routes: [{ name: "LoginScreen" }] })
+        }
+    }
 
     return (
         <View
@@ -33,26 +37,17 @@ const HomeScreen = (props) => {
             }}>
             <Text style={{
                 padding: 10
-            }}>Hello {props.userDetails.email} !</Text>
+            }}>Hello  !</Text>
             <CustomButton
                 title="Logout"
                 onPress={() => {
                     onLogoutClick(props)
                 }}
             />
-            {
-                loader
-            }
         </View>
     );
 };
 
-const onLogoutClick = async (props) => {
-    const res = await props.logout()
-    if (res.success) {
-        props.navigation.reset({ index: 0, routes: [{ name: "LoginScreen" }] })
-    }
-}
 
 const mapStateToProps = (state) => {
     return {
@@ -61,4 +56,4 @@ const mapStateToProps = (state) => {
     }
 }
 
-export default connect(mapStateToProps, { logout, getUsersList })(HomeScreen);
+export default HOC(HomeScreen);

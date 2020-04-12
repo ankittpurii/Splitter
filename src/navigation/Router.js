@@ -16,7 +16,6 @@ import {
     DrawerItem
 } from '@react-navigation/drawer';
 
-
 // importing screens
 import { LoginScreen, HomeScreen, SplashScreen, ProfileScreen } from '../components/screens';
 import Animated from 'react-native-reanimated';
