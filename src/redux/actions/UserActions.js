@@ -10,7 +10,7 @@ export const getUsersList = () => {
                 console.log("No such document!");
             }
         }).catch(function (error) {
-            console.log("Error getting document:", error);
+            console.log("Error getting  in document:", error);
         });
     }
 }
